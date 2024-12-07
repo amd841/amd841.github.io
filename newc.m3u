@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="الولاية" tvg-id="alwilayah" tvg-logo="https://alwilayah.tv/wp-content/uploads/2022/12/cropped-alwilayah-logo-1.png" group-title="main",الولاية
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTINF:-1 tvg-name="قناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTV" group-title="main",قناة المعارف
+https://ir14.livekadeh.com/hls2/almaaref.m3u8
+#EXTINF:-1 tvg-name="قناة الكوثر" tvg-logo="https://amd840.github.io/khawther.png" tvg-id="alkawther" group-title="main",قناة الكوثر
+http://95.216.180.111:1935/live/118/index.m3u8
+#EXTINF:-1 tvg-name="قناة كربلاء" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-id="karbala" group-title="main",قناة كربلاء
+http://95.216.180.111:1935/live/45/chunklist_w2063903148.m3u8
+#EXTINF:-1 tvg-name="قناة الثقلين" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSmasiHJMNPLOQMMdUuh-jotsBg80yVn3Qfys5HUg=s900-c-k-c0x00ffffff-no-rj" tvg-id="Thaqalayn" group-title="main",قناة الثقلين
+http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
+#EXTINF:-1 tvg-name="قناة الايمان" tvg-logo="https://i.imgur.com/4WKQppG.png" tvg-id="AlImanTV" group-title="main",قناة الايمان
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/playlist.m3u8
+#EXTINF:-1 tvg-name="قناة الدعاء" tvg-logo="https://i.imgur.com/Tb1OJQa.png" tvg-id="DuaChannel" group-title="main",قناة الدعاء
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-name="قناة الفرات" tvg-logo="https://i.imgur.com/f6PQzKd.png" tvg-id="AlForatTV" group-title="main",قناة الفرات
+http://95.216.180.111:1935/live/10/index.m3u8
+#EXTINF:-1 tvg-name="الفرات" tvg-id="AlForatTV.iq" tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="news",قناة الفرات
+http://95.216.180.111:1935/live/10/playlist.m3u8
+#EXTINF:-1 tvg-name="قناة الغدير" tvg-logo="https://i.imgur.com/YPj6kXq.png" tvg-id="AlghadeerTV" group-title="main",قناة الغدير
+http://95.216.180.111:1935/live/2/chunklist_w11557330.m3u8
+#EXTINF:-1 tvg-name="قناة الصراط" tvg-logo="https://i.imgur.com/ps4Gtj0.png" tvg-id="AssiratTV" group-title="main",قناة الصراط
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1 tvg-name="المسار" tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="news",قناة المسار
+https://master.starmena-cloud.com/hls/almasar.m3u8
+#EXTINF:-1 tvg-name="قناة المرجعية" tvg-logo="https://i.imgur.com/LsYYkUI.png" tvg-id="MarjaeyatTVArabic" group-title="main",MarjaeyatTVArabic
+https://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
+#EXTINF:-1 tvg-name="قناة النعيم" tvg-id="Al-Naeem TV" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="main",Al-Naeem TV (576p)
+https://nl2.livekadeh.com/hls2/alnaeem.m3u8
+#EXTINF:-1 tvg-name="قناة العهد" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/bd/ACmnVC0y.jpg" tvg-id="alahd" group-title="main",قناة العهد
+http://95.216.180.111:1935/live/7/chunklist_w11557330.m3u8
+
+#EXTINF:-1 tvg-name="قناة الامام الحسين" tvg-logo="https://imamhussein2.tv/wp-content/uploads/2022/10/2-2.png" tvg-id="hussain" group-title="main",قناة الامام الحسين
+https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="النجباء" tvg-id="ettehadlive" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2b/شعار_قناة_النجباء_الفضائية.jpeg" group-title="main",النجباء
+https://s1.ettehadlive.com/live/3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="الانوار٢" tvg-id="Al Anwar 2" tvg-logo="https://pbs.twimg.com/profile_images/844196277055373312/iajyZSFA_400x400.jpg" group-title="main",الانوار ٢
+http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-name="العتبة العلوية" tvg-id="alawiya" tvg-logo="https://yt3.googleusercontent.com/yxx-DJEIHbLN17G4Cn_C5zEaeqXES8b6lqZ_-AqAY75MrpEbooaL2QAG7IoISXelWdRpc3lQcA=s900-c-k-c0x00ffffff-no-rj" group-title="main",العتبة العلوية
+https://s1.ettehadlive.com/live/120/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="هدهد" tvg-id="HodHodArabicTV.ir" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد
+http://95.216.180.111:1935/live/17/index.m3u8
+#EXTINF:-1 tvg-name="هدهدHD" tvg-id="HodHodArabicTV.irHD" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",HDهدهد
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286734.ts
+
+#EXTINF:-1 tvg-name="قناة العالم" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/قناة_العالم.png" tvg-id="alalam" group-title="news",قناة العالم
+http://channels.amd840.com/alalam/index.m3u8
+#EXTINF:-1 tvg-name="قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera" group-title="news",قناة الجزيرة
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-name="قناة المنار" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-id="AlManar" group-title="main",قناة المنار
+http://95.216.180.111:1935/live/43/chunklist.m3u8
+#EXTINF:-1 tvg-name="قناة المنار" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",قناة المنار
+https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="sdقناة المنار" tvg-id="AlManar.lbsd" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",360px المنار
+http://95.216.180.111:1935/live/43/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="قناة الميادين" tvg-id="mdn" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/0/04/شعار_قناة_الميادين.jpg" group-title="news",قناة الميادين
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="قناة النبا" tvg-logo="https://pbs.twimg.com/profile_images/1293456075723866114/T3CDaDfb_400x400.png" tvg-id="naba" group-title="news",قناة النبا
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-name="AlEkhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya" group-title="news",AlEkhbariya
+http://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 tvg-name="AlArabyTV" tvg-logo="https://cdn6.aptoide.com/imgs/6/8/9/689b42251d7db68dbc77bc6aa1febdeb_icon.png" tvg-id="AlArabyTV" group-title="news",AlArabyTV
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 tvg-name="AlArabyTV2" tvg-logo="https://i.imgur.com/Gp5mNea.png" tvg-id="AlArabyTV2" group-title="news",AlArabyTV2
+http://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b1150000.m3u8
+#EXTINF:-1 tvg-name="RTArabic" tvg-id="RTArabic.ru" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="news",RT Arabic (1080p)
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-name="قناة افاق" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/قناة_أفاق.png" tvg-id="afaq" group-title="news",قناة افاق
+http://95.216.180.111:1935/live/1/chunklist_w1238894840.m3u8
+#EXTINF:-1 tvg-name="قناة المسيرة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/شعار_قناة_المسيرة.svg/2560px-شعار_قناة_المسيرة.svg.png" tvg-id="almasirah" group-title="news",قناة المسيرة
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_480p/chunks.m3u8
+#EXTINF:-1 tvg-name="2قناة المسيرة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/شعار_قناة_المسيرة.svg/2560px-شعار_قناة_المسيرة.svg.png" tvg-id="almasirah2" group-title="news",2قناة المسيرة
+http://95.216.180.111:1935/live/14/index.m3u8
+#EXTINF:-1 tvg-name="قناة المسيرة مباشر" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" tvg-id="almasirah mubashir" group-title="news",قناة المسيرة مباشر 
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_AR/chunks.m3u8
+
+#EXTINF:-1 tvg-name="IqraaArabic" tvg-logo="https://i.imgur.com/HPVsIa4.png" tvg-id="IqraaArabic" group-title="general",IqraaArabic
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+
+#EXTINF:-1 tvg-name="NationalGeographicAbuDhabi1" tvg-logo="https://i.imgur.com/fNA00VF.png" tvg-id="NationalGeographicAbuDhabi1" group-title="general",NationalGeographicAbuDhabi1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="general",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" group-title="Saudi Arabia",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
+#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Saudi Arabia",Al Sunnah Al Nabawiyah TV
+https://tgn.bozztv.com/trn03/gin-saudisunnah/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNCA0OjAwOjQ2IEFNJmhhc2hfdmFsdWU9Wk85TWt3LzkxUUZHN1l6Y1BzMDVFdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIx
+#EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" group-title="Saudi Arabia",Al Ekhbariya
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="HDقناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTVHD" group-title="main",قناة المعارفHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286721.ts
+#EXTINF:-1 tvg-name="الانوار" tvg-id="Al Anwar 1" tvg-logo="https://alanwar.tv/wp-content/uploads/2021/05/al-anwar3logo-1024x1024.jpg" group-title="main",الانوار 
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286710.ts
+#EXTINF:-1 tvg-name="الاوحد" tvg-id="Al Awhad HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx7jF7mooOYuSBH7CBZNB5ouy3TUWfBrnmw&s" group-title="main",الاوحد 
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286713.ts
+#EXTINF:-1 tvg-name="العقيلة" tvg-id="AlaqilaTv1" tvg-logo="https://pbs.twimg.com/profile_images/1291374636622655488/H0aaI-d-_400x400.jpg" group-title="main",العقيلة
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286712.ts
+#EXTINF:-1 tvg-name="النجباءHD" tvg-id="ettehadliveHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2b/شعار_قناة_النجباء_الفضائية.jpeg" group-title="main",النجباءHD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/46020
+#EXTINF:-1 tvg-id="alshaaer" tvg-name="قناة الشعائر" tvg-logo="https://shiawaves.com/arabic/wp-content/uploads/sites/3/2022/04/01-8.jpg" group-title="main",الشعائر
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638315
+#EXTINF:-1 tvg-id="alnajaf" tvg-name="قناة النجف" tvg-logo="https://shiawaves.com/arabic/wp-content/uploads/sites/3/2022/03/28-12-1024x576.jpg" group-title="main",النجف
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638323
