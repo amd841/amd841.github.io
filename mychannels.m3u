@@ -1,0 +1,613 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="الولاية" tvg-id="alwilayah" tvg-logo="https://alwilayah.tv/wp-content/uploads/2022/12/cropped-alwilayah-logo-1.png" group-title="main",الولاية
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTINF:-1 tvg-name="قناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTV" group-title="main",قناة المعارف
+https://ir14.livekadeh.com/hls2/almaaref.m3u8
+#EXTINF:-1 tvg-name="HDقناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTVHD" group-title="main",قناة المعارفHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286721.ts
+
+
+#EXTINF:-1 tvg-name="قناة الكوثر" tvg-logo="https://amd840.github.io/khawther.png" tvg-id="alkawther" group-title="main",قناة الكوثر
+http://95.216.180.111:1935/live/118/index.m3u8
+#EXTINF:-1 tvg-name="HDقناة الكوثر" tvg-logo="https://amd840.github.io/khawther.png" tvg-id="alkawther3" group-title="main",قناة الكوثرHD
+http://20.84.80.199/alkawthar.m3u8
+#EXTINF:-1 tvg-name="قناة كربلاء" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-id="karbala" group-title="main",قناة كربلاء
+http://95.216.180.111:1935/live/45/chunklist_w2063903148.m3u8
+#EXTINF:-1 tvg-name="قناة الثقلين" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSmasiHJMNPLOQMMdUuh-jotsBg80yVn3Qfys5HUg=s900-c-k-c0x00ffffff-no-rj" tvg-id="Thaqalayn" group-title="main",قناة الثقلين
+http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
+#EXTINF:-1 tvg-name="قناة الايمان" tvg-logo="https://i.imgur.com/4WKQppG.png" tvg-id="AlImanTV" group-title="main",قناة الايمان
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/playlist.m3u8
+#EXTINF:-1 tvg-name="قناة الدعاء" tvg-logo="https://i.imgur.com/Tb1OJQa.png" tvg-id="DuaChannel" group-title="main",قناة الدعاء
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-name="قناة الفرات" tvg-logo="https://i.imgur.com/f6PQzKd.png" tvg-id="AlForatTV" group-title="main",قناة الفرات
+http://95.216.180.111:1935/live/10/index.m3u8
+#EXTINF:-1 tvg-name="الفرات" tvg-id="AlForatTV.iq" tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="news",قناة الفرات
+http://95.216.180.111:1935/live/10/playlist.m3u8
+#EXTINF:-1 tvg-name="قناة الغدير" tvg-logo="https://i.imgur.com/YPj6kXq.png" tvg-id="AlghadeerTV" group-title="main",قناة الغدير
+http://95.216.180.111:1935/live/2/chunklist_w11557330.m3u8
+#EXTINF:-1 tvg-name="قناة الصراط" tvg-logo="https://i.imgur.com/ps4Gtj0.png" tvg-id="AssiratTV" group-title="main",قناة الصراط
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1 tvg-name="المسار" tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="news",قناة المسار
+https://master.starmena-cloud.com/hls/almasar.m3u8
+#EXTINF:-1 tvg-name="قناة المرجعية" tvg-logo="https://i.imgur.com/LsYYkUI.png" tvg-id="MarjaeyatTVArabic" group-title="main",قناة المرجعية
+https://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
+#EXTINF:-1 tvg-name="قناة النعيم" tvg-id="Al-Naeem TV" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="main",قناة النعيم 
+https://nl2.livekadeh.com/hls2/alnaeem.m3u8
+#EXTINF:-1 tvg-name="قناة العهد" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/bd/ACmnVC0y.jpg" tvg-id="alahd" group-title="main",قناة العهد
+http://95.216.180.111:1935/live/7/chunklist_w11557330.m3u8
+#EXTINF:-1 tvg-name="قناة الامام الحسين" tvg-logo="https://imamhussein2.tv/wp-content/uploads/2022/10/2-2.png" tvg-id="hussain" group-title="main",قناة الامام الحسين
+https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="النجباء" tvg-id="ettehadlive" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2b/شعار_قناة_النجباء_الفضائية.jpeg" group-title="main",النجباء
+https://s1.ettehadlive.com/live/3/playlist.m3u8
+#EXTINF:-1 tvg-name="النجباءHD" tvg-id="ettehadliveHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2b/شعار_قناة_النجباء_الفضائية.jpeg" group-title="main",النجباءHD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/46020
+
+
+#EXTINF:-1 tvg-name="الانوار٢" tvg-id="Al Anwar 2" tvg-logo="https://pbs.twimg.com/profile_images/844196277055373312/iajyZSFA_400x400.jpg" group-title="main",الانوار ٢
+http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
+#EXTINF:-1 tvg-name="الانوار" tvg-id="Al Anwar 1" tvg-logo="https://alanwar.tv/wp-content/uploads/2021/05/al-anwar3logo-1024x1024.jpg" group-title="main",الانوار 
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286710.ts
+
+#EXTINF:-1 tvg-name="الاوحد" tvg-id="Al Awhad HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx7jF7mooOYuSBH7CBZNB5ouy3TUWfBrnmw&s" group-title="main",الاوحد 
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286713.ts
+#EXTINF:-1 tvg-name="الامام الصادق" tvg-id="IMAMAlSADEQTVHD" tvg-logo="https://yt3.googleusercontent.com/HbdfTwXQpKBbOp9mAKGcmmDAj_Lol_WAA3G0fsNA9Xgb0aE8QbbX3krsK4hZ7cd3hl2vc51cug=s900-c-k-c0x00ffffff-no-rj" group-title="main",الامام الصادق 
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/45600
+
+#EXTINF:-1 tvg-id="AlkomailH1D" tvg-name="قناة الكلمات" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_bZQu5Si5BVdaO5Iu8ZB_yNbN5LIdvjnDFNMGn6Lzg&s" group-title="main",الكلمات
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/223726
+#EXTINF:-1 tvg-id="alshaaer" tvg-name="قناة الشعائر" tvg-logo="https://shiawaves.com/arabic/wp-content/uploads/sites/3/2022/04/01-8.jpg" group-title="main",الشعائر
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638315
+#EXTINF:-1 tvg-id="alshaaer" tvg-name="قناة النجف" tvg-logo="https://shiawaves.com/arabic/wp-content/uploads/sites/3/2022/03/28-12-1024x576.jpg" group-title="main",النجف
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638323
+
+#EXTINF:-1 tvg-id="AHLULBAYT" tvg-name="قناة AHLULBAYT" tvg-logo="https://play-lh.googleusercontent.com/MyRjbXnvBwa8XcizMoKSrHZu5lmwsJWvFqqZH0_2jjgj3giu_IeFiSTAX-pofuP-www=w526-h296-rw" group-title="main",AHLULBAYT
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638281
+#EXTINF:-1 tvg-id="AHLULBAYT kids" tvg-name="قناة AHLULBAYT kids" tvg-logo="https://play-lh.googleusercontent.com/MyRjbXnvBwa8XcizMoKSrHZu5lmwsJWvFqqZH0_2jjgj3giu_IeFiSTAX-pofuP-www=w526-h296-rw" group-title="main",AHLULBAYT kids
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638284
+
+
+
+
+#EXTINF:-1 tvg-name="الكفيل" tvg-id="alkafeel" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",الكفيل
+http://20.84.80.199/tube/alkafeeltv
+
+#EXTINF:-1 tvg-name="العتبة العلوية" tvg-id="alawiya" tvg-logo="https://yt3.googleusercontent.com/yxx-DJEIHbLN17G4Cn_C5zEaeqXES8b6lqZ_-AqAY75MrpEbooaL2QAG7IoISXelWdRpc3lQcA=s900-c-k-c0x00ffffff-no-rj" group-title="main",العتبة العلوية
+https://s1.ettehadlive.com/live/120/playlist.m3u8
+
+#EXTINF:-1 tvg-name="صوت العقيلة" tvg-id="AlaqilaTv1HD" tvg-logo="https://yt3.googleusercontent.com/eJvbNBs578xMLkszBLYKL7jqHzGy5FsvuS4DYAWsa9z8gJUIy33W7B6DZ90wLrj45CWRTeBn=s900-c-k-c0x00ffffff-no-rj" group-title="main",صوت العقيلة
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286706.ts
+#EXTINF:-1 tvg-name="العقيلةHD1" tvg-id="AlaqilaTv1HD1" tvg-logo="https://pbs.twimg.com/profile_images/1291374636622655488/H0aaI-d-_400x400.jpg" group-title="main",العقيلةHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286712.ts
+
+#EXTINF:-1 tvg-name="قناة طه" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV" group-title="main",TahaTV
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 tvg-name="قناة طه360" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-id="TahaTV360" group-title="main",TahaTV360
+http://95.216.180.111:1935/live/37/index.m3u8
+#EXTINF:-1 tvg-name="قناة العالم" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/قناة_العالم.png" tvg-id="alalam" group-title="news",قناة العالم
+http://channels.amd840.com/alalam/index.m3u8
+#EXTINF:-1 tvg-name="قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera" group-title="news",قناة الجزيرة
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-name="360قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera360" group-title="news",قناة الجزيرة360
+http://95.216.180.111:1935/live/113/index.m3u8
+#EXTINF:-1 tvg-name="قناة المنار" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-id="AlManar" group-title="main",قناة المنار
+https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="قناة المنار" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",قناة المنار
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1 tvg-name="sdقناة المنار" tvg-id="AlManar.lbsd" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",360px المنار
+http://95.216.180.111:1935/live/43/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="قناة الميادين" tvg-id="mdn" tvg-logo="https://almasalah.com/wp-content/uploads/2024/10/Screenshot-2024-10-23-225453.jpg" group-title="news",قناة الميادين
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="قناة النبا" tvg-logo="https://pbs.twimg.com/profile_images/1293456075723866114/T3CDaDfb_400x400.png" tvg-id="naba" group-title="news",قناة النبا
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-name="AlEkhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya" group-title="news",AlEkhbariya
+http://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 tvg-name="AlArabyTV" tvg-logo="https://cdn6.aptoide.com/imgs/6/8/9/689b42251d7db68dbc77bc6aa1febdeb_icon.png" tvg-id="AlArabyTV" group-title="news",AlArabyTV
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 tvg-name="AlArabyTV2" tvg-logo="https://i.imgur.com/Gp5mNea.png" tvg-id="AlArabyTV2" group-title="news",AlArabyTV2
+http://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b1150000.m3u8
+#EXTINF:-1 tvg-name="RTArabic" tvg-id="RTArabic.ru" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="news",RT Arabic (1080p)
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-name="RTArabicSD" tvg-id="RTArabic.rusd" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="news",RT Arabic (SD)
+http://camry.live:80/arab1one.com1aa2811/233455316349/316019
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCArabic.uk360" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (360p)
+http://95.216.180.111:1935/live/106/index.m3u8
+#EXTINF:-1 tvg-id="BBC ARABIC" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (HD)
+http://yshoots.com:80/live/arab1oneb2811/7350885901/102173.ts
+#EXTINF:-1 tvg-id="BBC WORLD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Earth
+http://camry.live:80/arab1one.com1aa2811/233455316349/257576
+
+#EXTINF:-1 tvg-name="قناة افاق" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/قناة_أفاق.png" tvg-id="afaq" group-title="news",قناة افاق
+http://95.216.180.111:1935/live/1/chunklist_w1238894840.m3u8
+#EXTINF:-1 tvg-name="قناة المسيرة" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/شعار_قناة_المسيرة.svg/2560px-شعار_قناة_المسيرة.svg.png" tvg-id="almasirah" group-title="news",قناة المسيرة
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_480p/chunks.m3u8
+#EXTINF:-1 tvg-name="قناة المسيرة مباشر" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" tvg-id="almasirah mubashir" group-title="news",قناة المسيرة مباشر 
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_AR/chunks.m3u8
+
+#EXTINF:-1 tvg-name="IqraaArabic" tvg-logo="https://i.imgur.com/HPVsIa4.png" tvg-id="IqraaArabic" group-title="general",IqraaArabic
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-name="ifilm" tvg-logo="https://i.imgur.com/k5WdrWx.png" tvg-id="iFilmArabic" group-title="general",iFilmArabic
+http://95.216.180.111:1935/live/15/chunklist.m3u8
+#EXTINF:-1 tvg-name="ifilm2" tvg-logo="https://i.imgur.com/k5WdrWx.png" tvg-id="iFilmArabic2" group-title="general",iFilmArabic2
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MBC1" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-id="MBC1" group-title="general",MBC1
+http://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
+#EXTINF:-1 tvg-name="MBCDrama" tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="general",MBC Drama KSA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-name="NationalGeographicAbuDhabi1" tvg-logo="https://i.imgur.com/fNA00VF.png" tvg-id="NationalGeographicAbuDhabi1" group-title="general",NationalGeographicAbuDhabi1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="general",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="majid majed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Majid_2020.png" group-title="general",ماجد
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="baraem1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="general",baraem1
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50338.ts
+#EXTINF:-1 tvg-id="baraem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="general",baraem
+http://yshoots.com:80/live/arab1oneb2811/7350885901/102380.ts
+#EXTINF:-1 tvg-id="Jeem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/236px-JeemTV_logo.png" group-title="general",Jeem
+http://yshoots.com:80/live/arab1oneb2811/7350885901/102381.ts
+
+
+#EXTINF:-1 tvg-name="SBC" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC" group-title="general",SBC
+http://camry.live:80/arab1one.com1aa2811/233455316349/229157
+#EXTINF:-1 tvg-name="قناة السنة" tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="general",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+https://live.kwikmotion.com/ksasunnalive/ksasunna.smil/playlist_dvr.m3u8?hdnts=exp=1732764180~acl=/ksasunnalive/ksasunna.smil/*~hmac=6997527e3cc9e355a4ea7257e53f400a6ab4c45c9b6e1e183f80af43ea6eae44
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" group-title="Saudi Arabia",Al Quran Al Kareem TV
+https://channels.amd840.com/tube/SaudiQuranTv
+
+#EXTINF:-1 tvg-name="SpacetoonArabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" tvg-id="SpacetoonArabic" group-title="general",SpacetoonArabic
+http://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-name="SpacetoonArabic1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" tvg-id="SpacetoonArabic1" group-title="general",SpacetoonArabic1
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-name="هدهد" tvg-id="HodHodArabicTV.ir" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد
+https://5e74a9d684b2e.streamlock.net/hodhodTV/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="هدهدHD" tvg-id="HodHodArabicTV.irHD" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",HDهدهد
+http://yshoots.com:80/live/arab1oneb2811/7350885901/286734.ts
+
+
+
+#EXTINF:-1 tvg-name="test" tvg-id="test12" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube1
+http://20.84.80.199/tube/EuronewsAlbania
+
+#EXTINF:-1 tvg-name="test" tvg-id="test13" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube2
+https://www.youtube.com/live/vQKKDKCfw1A?feature=shared
+#EXTINF:-1 tvg-name="test" tvg-id="test14" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube3
+http://20.84.80.199/tube/encuentro
+#EXTINF:-1 tvg-name="test" tvg-id="test15" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube4
+http://20.84.80.199/tube/SundomTV
+
+
+#EXTINF:-1 tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" group-title="Saudi Arabia",Al Saudiya
+https://shls-masr2-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
+#EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" group-title="Saudi Arabia",SBC Saudi Arabia
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
+#EXTINF:-1 tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" group-title="Saudi Arabia",Thikrayat
+https://live.kwikmotion.com/zikrayatlive/zikrayat.smil/playlist_dvr.m3u8?hdnts=exp=1732764518~acl=/zikrayatlive/zikrayat.smil/*~hmac=1d6e3f80dba4ea677048f596e502d84513a4c0f0b705f37655b05cd62ee6cd93
+#EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" group-title="Saudi Arabia",Al Ekhbariya
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" group-title="Saudi Arabia",Al Saudiya Alaan
+https://live.kwikmotion.com/ksasports4live/ksasports4.smil/playlist_dvr.m3u8?hdnts=exp=1732764437~acl=/ksasports4live/ksasports4.smil/*~hmac=861dbcfc9d7a1e3ec6940b7bf0087681f06a1094f34a501010195759ed15a5c5
+#EXTINF:-1 tvg-name="KSA Sports 1" tvg-logo="https://i.imgur.com/ONKNOAp.png" tvg-id="KSASports1.sa" group-title="Saudi Arabia",KSA Sports 1
+https://live.kwikmotion.com/ksasports1live/ksasports1.smil/playlist_dvr.m3u8?hdnts=exp=1732764658~acl=/ksasports1live/ksasports1.smil/*~hmac=4f7112eaa0e64a3acfda83b50311aaf12192666f9585e20beb5ce562977acba2
+#EXTINF:-1 tvg-name="KSA Sports 2" tvg-logo="https://i.imgur.com/v8ULLqg.png" tvg-id="KSASports2.sa" group-title="Saudi Arabia",KSA Sports 2
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 tvg-name="KSA Sports 3" tvg-logo="https://i.imgur.com/BXfCvez.png" tvg-id="KSASports3.sa" group-title="Saudi Arabia",KSA Sports 3
+https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" group-title="Saudi Arabia",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
+#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Saudi Arabia",Al Sunnah Al Nabawiyah TV
+https://tgn.bozztv.com/trn03/gin-saudisunnah/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyNCA0OjAwOjQ2IEFNJmhhc2hfdmFsdWU9Wk85TWt3LzkxUUZHN1l6Y1BzMDVFdz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIx
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN  NEWS 4K" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BEIN  NEWS 4K
+http://camry.live:80/arab1one.com1aa2811/233455316349/355568
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 4K [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BeIN Sports 1 4K [G]
+http://camry.live:80/arab1one.com1aa2811/233455316349/352268
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 4K [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BeIN Sports 2 4K [G]
+http://camry.live:80/arab1one.com1aa2811/233455316349/352269
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 4K [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BeIN Sports 3 4K [G]
+http://camry.live:80/arab1one.com1aa2811/233455316349/352270
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 4K [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BeIN Sports 4 4K [G]
+http://camry.live:80/arab1one.com1aa2811/233455316349/352271
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 5 4K [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BeIN Sports 5 4K [G]
+http://camry.live:80/arab1one.com1aa2811/233455316349/352272
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 6 4K [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BeIN Sports 6 4K [G]
+http://camry.live:80/arab1one.com1aa2811/233455316349/352273
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 4K [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BeIN Sports 7 4K [G]
+http://camry.live:80/arab1one.com1aa2811/233455316349/352274
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 8 4K [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BeIN Sports 8 4K [G]
+http://camry.live:80/arab1one.com1aa2811/233455316349/352275
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 9 4K [G]" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BeIN Sports 9 4K [G]
+http://camry.live:80/arab1one.com1aa2811/233455316349/352276
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 XTRA 4K" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BEIN SPORT 1 XTRA 4K
+http://camry.live:80/arab1one.com1aa2811/233455316349/352277
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2 XTRA 4K" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BEIN SPORT 2 XTRA 4K
+http://camry.live:80/arab1one.com1aa2811/233455316349/352278
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3 XTRA 4K" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BEIN SPORT 3 XTRA 4K
+http://camry.live:80/arab1one.com1aa2811/233455316349/352279
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FR 4k 1" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="⚽️ BEIN 4K | بي إن سبورت ",BEIN SPORTS FR 4k 1
+
+
+
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 1 FHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50000.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 1 HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50001.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 1 SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50002.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 2 FHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50003.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 2 HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50004.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 2 SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50005.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 3 FHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50006.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 3 HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50007.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 3 SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50008.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 4 FHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50009.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 4 HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50010.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 4 SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50011.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 5 FHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50012.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 5 HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50013.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS 5 SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50014.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 1 FHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50015.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 1 HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50016.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 1 SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50017.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 2 FHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50018.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 2 HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50019.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 2 SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/50020.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 3 FHD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/304418.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 3 HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/304419.ts
+#EXTINF:-1 group-title="Sports",SSC | SPORTS EXTRA 3 SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/304420.ts
+#EXTINF:-1 group-title="Sports",V:SSC | SPORTS NEWS 4K
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480878.ts
+#EXTINF:-1 group-title="Sports",V:SSC 1 | SPORTS 4K
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480879.ts
+#EXTINF:-1 group-title="Sports",V:SSC 1 | SPORTS HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480880.ts
+#EXTINF:-1 group-title="Sports",V:SSC 1 | SPORTS SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480881.ts
+#EXTINF:-1 group-title="Sports",V:SSC 2 | SPORTS HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480882.ts
+#EXTINF:-1 group-title="Sports",V:SSC 3 | SPORTS HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480883.ts
+#EXTINF:-1 group-title="Sports",V:SSC 4 | SPORTS HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480884.ts
+#EXTINF:-1 group-title="Sports",V:SSC 5 | SPORTS 4K
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480885.ts
+#EXTINF:-1 group-title="Sports",V:SSC 5 | SPORTS HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480886.ts
+#EXTINF:-1 group-title="Sports",V:SSC 5 | SPORTS SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480887.ts
+#EXTINF:-1 group-title="Sports",V:SSC EXTRA 1 | SPORTS 4K
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480888.ts
+#EXTINF:-1 group-title="Sports",V:SSC EXTRA 1 | SPORTS HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480889.ts
+#EXTINF:-1 group-title="Sports",V:SSC EXTRA 1 | SPORTS SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480890.ts
+#EXTINF:-1 group-title="Sports",V:SSC EXTRA 2 | SPORTS 4K
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480891.ts
+#EXTINF:-1 group-title="Sports",V:SSC EXTRA 2 | SPORTS HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480892.ts
+#EXTINF:-1 group-title="Sports",V:SSC EXTRA 2 | SPORTS SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480893.ts
+#EXTINF:-1 group-title="Sports",V:SSC EXTRA 3 | SPORTS 4K
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480894.ts
+#EXTINF:-1 group-title="Sports",V:SSC EXTRA 3 | SPORTS HD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480895.ts
+#EXTINF:-1 group-title="Sports",V:SSC EXTRA 3 | SPORTS SD
+http://yshoots.com:80/live/arab1oneb2811/7350885901/480896.ts
+#EXTINF:-1 group-title="Sports",STC SPORT
+http://yshoots.com:80/live/arab1oneb2811/7350885901/384944.ts
+#EXTINF:-1 group-title="Sports",ABUDHABI SPORTS PREMIUM 1
+http://yshoots.com:80/live/arab1oneb2811/7350885901/291451.ts
+#EXTINF:-1 group-title="Sports",ABUDHABI SPORTS PREMIUM 2
+http://yshoots.com:80/live/arab1oneb2811/7350885901/291450.ts
+#EXTINF:-1 group-title="Sports",StarzPlay SPORT 3
+http://yshoots.com:80/live/arab1oneb2811/7350885901/291449.ts
+#EXTINF:-1 group-title="Sports",4K:KSA SPORTS 1 4K
+http://yshoots.com:80/live/arab1oneb2811/7350885901/222044.ts
+#EXTINF:-1 group-title="Sports",4K:KSA SPORTS 2 4K
+http://yshoots.com:80/live/arab1oneb2811/7350885901/222045.ts
+#EXTINF:-1 group-title="Sports",4K:KSA SPORTS 3 4K
+http://yshoots.com:80/live/arab1oneb2811/7350885901/222047.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="STC  SPORT 1  HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",STC  SPORT 1  HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623755
+#EXTINF:-1 tvg-ID="" tvg-name="STC SPORT 2 HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",STC SPORT 2 HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623785
+#EXTINF:-1 tvg-ID="" tvg-name="SSC 1 HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",SSC 1 HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623758
+#EXTINF:-1 tvg-ID="" tvg-name="SSC 2 HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",SSC 2 HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623765
+#EXTINF:-1 tvg-ID="" tvg-name="SSC 3 HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",SSC 3 HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623768
+#EXTINF:-1 tvg-ID="" tvg-name="SSC 4 HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",SSC 4 HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623771
+#EXTINF:-1 tvg-ID="" tvg-name="SSC 5 HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",SSC 5 HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623762
+#EXTINF:-1 tvg-ID="" tvg-name="SSC EXTRA 1  HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",SSC EXTRA 1  HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623774
+#EXTINF:-1 tvg-ID="" tvg-name="SSC EXTRA 2 HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",SSC EXTRA 2 HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623777
+#EXTINF:-1 tvg-ID="" tvg-name="SSC EXTRA 3 HD" tvg-logo="1" group-title="⚽ KSA Sport/SSC Sports| الرياضية السعودية",SSC EXTRA 3 HD
+http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/623780
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC 01 4K PPV" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC 01 4K PPV
+http://smarters.info:80/arab1one1aa2811/2464326563453/598297
+#EXTINF:-1 tvg-id="" tvg-name="SSC 01 HD PPV" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC 01 HD PPV
+http://smarters.info:80/arab1one1aa2811/2464326563453/598298
+#EXTINF:-1 tvg-id="" tvg-name="SSC 05 4K PPV" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC 05 4K PPV
+http://smarters.info:80/arab1one1aa2811/2464326563453/598299
+#EXTINF:-1 tvg-id="" tvg-name="SSC 05 HD PPV" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC 05 HD PPV
+http://smarters.info:80/arab1one1aa2811/2464326563453/598300
+#EXTINF:-1 tvg-id="" tvg-name="SSC NEWS FHD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC NEWS FHD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494378
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 4K" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 1 4K
+http://smarters.info:80/arab1one1aa2811/2464326563453/494379
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 FHD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 1 FHD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494380
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 HD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 1 HD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494381
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 SD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 1 SD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494382
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 4K" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 2 4K
+http://smarters.info:80/arab1one1aa2811/2464326563453/494383
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 FHD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 2 FHD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494384
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 HD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 2 HD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494385
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 SD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 2 SD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494386
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 3 4K" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 3 4K
+http://smarters.info:80/arab1one1aa2811/2464326563453/494387
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 3 FHD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 3 FHD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494388
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 3 HD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 3 HD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494389
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 3 SD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 3 SD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494390
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 4 4K" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 4 4K
+http://smarters.info:80/arab1one1aa2811/2464326563453/494391
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 4 FHD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 4 FHD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494392
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 4 HD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 4 HD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494393
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 4 SD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 4 SD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494394
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 5 4K" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 5 4K
+http://smarters.info:80/arab1one1aa2811/2464326563453/494395
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 5 FHD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 5 FHD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494396
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 5 HD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 5 HD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494397
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 5 SD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS 5 SD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494398
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 1 4K" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 1 4K
+http://smarters.info:80/arab1one1aa2811/2464326563453/494399
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 1 FHD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 1 FHD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494400
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 1 HD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 1 HD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494401
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 1 SD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 1 SD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494402
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 2 4K" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 2 4K
+http://smarters.info:80/arab1one1aa2811/2464326563453/494403
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 2 FHD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 2 FHD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494404
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 2 HD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 2 HD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494405
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 2 SD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 2 SD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494406
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 3 4K" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 3 4K
+http://smarters.info:80/arab1one1aa2811/2464326563453/494407
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 3 FHD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 3 FHD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494408
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 3 HD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 3 HD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494409
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS EXTRA 3 SD" tvg-logo="https://d.top4top.io/p_2356890ne1.png" group-title="⚽ SSC SPORTS - الرياضية SSC",SSC SPORTS EXTRA 3 SD
+http://smarters.info:80/arab1one1aa2811/2464326563453/494410
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",VIP: SSC NEWS 4K
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391645
+#EXTINF:-1 tvg-id="" tvg-name="SSC  NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC  NEWS FHD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/310741
+#EXTINF:-1 tvg-id="" tvg-name="Action with Walid - اكشن مع وليد" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",Action with Walid - اكشن مع وليد
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/191231
+#EXTINF:-1 tvg-id="" tvg-name="Action Extra - اكشن اكسترا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",Action Extra - اكشن اكسترا
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/191233
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 1 4K
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/152044
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 1 FHD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/152037
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 HD Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 1 HD Multi Audio
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391637
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 1 SD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/175714
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 SD B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 1 SD B
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391642
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 2 4K
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/175722
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 2 FHD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/152038
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2  HD Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 2  HD Multi Audio
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391638
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 2 SD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/152042
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 3 4K
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/175715
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 3 FHD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/152039
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 HD Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 3 HD Multi Audio
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391639
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 3 SD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391643
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 HD Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 4 HD Multi Audio
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391640
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 4 4K
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/175716
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 4 FHD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/152040
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 4 SD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/175719
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 HD Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 5 HD Multi Audio
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391641
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 5 4K
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/175717
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 5 FHD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/152041
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC 5 SD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/243623
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA  1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC EXTRA  1 FHD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391634
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC EXTRA 1 4K
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/310742
+#EXTINF:-1 tvg-id="" tvg-name="SSC  EXTRA 1 HD Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC  EXTRA 1 HD Multi Audio
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/175718
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 2 HD Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC EXTRA 2 HD Multi Audio
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391635
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC EXTRA 2 4K
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/152043
+#EXTINF:-1 tvg-id="" tvg-name="SSC:  EXTRA 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC:  EXTRA 2 SD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/310743
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC Extra 3 4K
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391636
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 HD Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC Extra 3 HD Multi Audio
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/391644
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA  3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Swedish_Space_Corporation_Logo.svg/800px-Swedish_Space_Corporation_Logo.svg.png" group-title="|AR| SSC Sp⚽rts  الدوري السعودي",SSC EXTRA  3 SD
+http://tera4k.com:8880/arab1one2aa2811/37032122927373/350080
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Clarksons Farm S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lyP0ZH3BDeMuVc7EMaSMm8JiVe.jpg" group-title="Documentary [ وثائقية]",Clarksons Farm S02 E01
+http://doom2-iptv.net:8080/series/arab1one1aa2811/22572259028164/316998.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clarksons Farm S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lyP0ZH3BDeMuVc7EMaSMm8JiVe.jpg" group-title="Documentary [ وثائقية]",Clarksons Farm S02 E02
+http://doom2-iptv.net:8080/series/arab1one1aa2811/22572259028164/316999.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clarksons Farm S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lyP0ZH3BDeMuVc7EMaSMm8JiVe.jpg" group-title="Documentary [ وثائقية]",Clarksons Farm S02 E03
+http://doom2-iptv.net:8080/series/arab1one1aa2811/22572259028164/317000.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clarksons Farm S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lyP0ZH3BDeMuVc7EMaSMm8JiVe.jpg" group-title="Documentary [ وثائقية]",Clarksons Farm S02 E04
+http://doom2-iptv.net:8080/series/arab1one1aa2811/22572259028164/317001.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clarksons Farm S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lyP0ZH3BDeMuVc7EMaSMm8JiVe.jpg" group-title="Documentary [ وثائقية]",Clarksons Farm S02 E05
+http://doom2-iptv.net:8080/series/arab1one1aa2811/22572259028164/317002.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clarksons Farm S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lyP0ZH3BDeMuVc7EMaSMm8JiVe.jpg" group-title="Documentary [ وثائقية]",Clarksons Farm S02 E06
+http://doom2-iptv.net:8080/series/arab1one1aa2811/22572259028164/317003.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clarksons Farm S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lyP0ZH3BDeMuVc7EMaSMm8JiVe.jpg" group-title="Documentary [ وثائقية]",Clarksons Farm S02 E07
+http://doom2-iptv.net:8080/series/arab1one1aa2811/22572259028164/317004.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clarksons Farm S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lyP0ZH3BDeMuVc7EMaSMm8JiVe.jpg" group-title="Documentary [ وثائقية]",Clarksons Farm S02 E08
+http://doom2-iptv.net:8080/series/arab1one1aa2811/22572259028164/317005.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Clarkson\\\\\\\'s Farm S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="ENGLISH مسلسلات اجنبية",Clarkson\\\\\\\'s Farm S02 E03
+http://tera4k.com:8880/series/arab1one2aa2811/37032122927373/348364.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clarkson\\\\\\\'s Farm S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="ENGLISH مسلسلات اجنبية",Clarkson\\\\\\\'s Farm S02 E04
+http://tera4k.com:8880/series/arab1one2aa2811/37032122927373/348365.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clarkson\\\\\\\'s Farm S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="ENGLISH مسلسلات اجنبية",Clarkson\\\\\\\'s Farm S02 E05
+http://tera4k.com:8880/series/arab1one2aa2811/37032122927373/348366.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clarkson\\\\\\\'s Farm S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="ENGLISH مسلسلات اجنبية",Clarkson\\\\\\\'s Farm S02 E06
+http://tera4k.com:8880/series/arab1one2aa2811/37032122927373/348367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clarkson\\\\\\\'s Farm S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="ENGLISH مسلسلات اجنبية",Clarkson\\\\\\\'s Farm S02 E07
+http://tera4k.com:8880/series/arab1one2aa2811/37032122927373/348368.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clarkson\\\\\\\'s Farm S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="ENGLISH مسلسلات اجنبية",Clarkson\\\\\\\'s Farm S02 E08
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Clarksons Farm S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="انجليزية | English ",Clarksons Farm S02 E01
+http://camry.live:80/series/arab1one.com1aa2811/233455316349/204041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarksons Farm S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="انجليزية | English ",Clarksons Farm S02 E02
+http://camry.live:80/series/arab1one.com1aa2811/233455316349/204042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarksons Farm S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="انجليزية | English ",Clarksons Farm S02 E03
+http://camry.live:80/series/arab1one.com1aa2811/233455316349/204043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarksons Farm S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="انجليزية | English ",Clarksons Farm S02 E04
+http://camry.live:80/series/arab1one.com1aa2811/233455316349/204044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarksons Farm S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="انجليزية | English ",Clarksons Farm S02 E05
+http://camry.live:80/series/arab1one.com1aa2811/233455316349/204045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarksons Farm S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="انجليزية | English ",Clarksons Farm S02 E06
+http://camry.live:80/series/arab1one.com1aa2811/233455316349/204046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarksons Farm S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="انجليزية | English ",Clarksons Farm S02 E07
+http://camry.live:80/series/arab1one.com1aa2811/233455316349/204047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clarksons Farm S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg" group-title="انجليزية | English ",Clarksons Farm S02 E08
+http://camry.live:80/series/arab1one.com1aa2811/233455316349/204048.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Head to Head" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cviUizb4Wil59E9tE7cu6IC2IpG.jpg" group-title="انجليزية | English 2023",Head to Head
+http://camry.live:80/movie/arab1one.com1aa2811/233455316349/299390.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name=" Head To Head 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cviUizb4Wil59E9tE7cu6IC2IpG.jpg" group-title="French | [ Fr] ", Head To Head 2023
+http://doom2-iptv.net:8080/movie/arab1one1aa2811/22572259028164/553263.mkv
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC News HD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC News HD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352037
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 SD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC 1 SD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352055
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 SD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC 2 SD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352045
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 SD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC 3 SD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352046
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 SD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC 4 SD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352047
+#EXTINF:-1 tvg-id="" tvg-name="SSC HD1" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC HD1
+http://camry.live:80/arab1one.com1aa2811/233455316349/352056
+#EXTINF:-1 tvg-id="" tvg-name="SSC HD2" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC HD2
+http://camry.live:80/arab1one.com1aa2811/233455316349/352038
+#EXTINF:-1 tvg-id="" tvg-name="SSC HD3" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC HD3
+http://camry.live:80/arab1one.com1aa2811/233455316349/352039
+#EXTINF:-1 tvg-id="" tvg-name="SSC HD4" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC HD4
+http://camry.live:80/arab1one.com1aa2811/233455316349/352040
+#EXTINF:-1 tvg-id="" tvg-name="SSC HD5" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC HD5
+http://camry.live:80/arab1one.com1aa2811/233455316349/352041
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4K 1" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC 4K 1
+http://camry.live:80/arab1one.com1aa2811/233455316349/352054
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4K 2" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC 4K 2
+http://camry.live:80/arab1one.com1aa2811/233455316349/352032
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4K 3" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC 4K 3
+http://camry.live:80/arab1one.com1aa2811/233455316349/352033
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4K 4" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC 4K 4
+http://camry.live:80/arab1one.com1aa2811/233455316349/352034
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4K 5" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC 4K 5
+http://camry.live:80/arab1one.com1aa2811/233455316349/352035
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 4K" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC Extra 1 4K
+http://camry.live:80/arab1one.com1aa2811/233455316349/352036
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 HD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC Extra 1 HD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352042
+#EXTINF:-1 tvg-id="" tvg-name="SSC extra 1 SD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC extra 1 SD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352048
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 2 HD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC Extra 2 HD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352043
+#EXTINF:-1 tvg-id="" tvg-name="SSC extra 2 SD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC extra 2 SD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352049
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 HD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC Extra 3 HD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352044
+#EXTINF:-1 tvg-id="" tvg-name="SSC extra 3 SD" tvg-logo="http://x12tv.co/mbc/U233445d.jpeg" group-title="⚽️ SSC SPORTS | أس أس سي",SSC extra 3 SD
+http://camry.live:80/arab1one.com1aa2811/233455316349/352050
