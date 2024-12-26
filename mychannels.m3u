@@ -215,11 +215,5 @@ http://doom2-iptv.net:8080/movie/arab1one2aa2212/22274282369605/576403.mp4
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Monsters University 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg" group-title="ENGLISH|  Animation | EN",Monsters University 2013
-http://doom2-iptv.net:8080/movie/arab1one2aa2212/22274282369605/483220.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Monsters University 2013 [4k]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg" group-title="CARTOON | [ AR.Sub] ",Monsters University 2013 [4k]
-http://doom2-iptv.net:8080/movie/arab1one2aa2212/22274282369605/406807.mp4
-
-#EXTINF:-1 tvg-ID="" tvg-name="Monsters University 2013 [4k]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg" group-title="CARTOON | [ AR.Sub] ",Monsters University 2013 [4k]
-http://doom2-iptv.net:8080/movie/arab1one2aa2212/22274282369605/400320.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="Monsters University (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upaMBEonGeZGQc3xtUVZOfe1lGl.jpg" group-title="أطفال مترجمة | Kids Sub",Monsters University (2013)
+http://sn-pro.com:80/movie/arab1one.com4aa2212/279816574692/38114.mp4
