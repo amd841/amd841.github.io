@@ -274,3 +274,19 @@ https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e
 https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
 
 
+
+
+#EXTINF:-1,SSC_1
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244000
+#EXTINF:-1,SSC_2
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243999
+#EXTINF:-1,SSC_3
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243998
+#EXTINF:-1,SSC_4
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243997
+#EXTINF:-1,SSC_5
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243996
+#EXTINF:-1,SSC_6
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243995
+#EXTINF:-1 tvg-id="SSC77" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC77
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243994
