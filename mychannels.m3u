@@ -216,17 +216,9 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 The links from elahmad changed
 http://www.elahmad.com/tv/ssc-sport-live.php
 
-#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Sports",QazSport (480p) [Geo-blocked]
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA En Espanol (720p)
-https://lnc-bein-espanol.tubi.video/playlist.m3u8
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p)
-https://lnc-bein.tubi.video/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="Sports",KSA Sports 1 (1080p) [Not 24/7]
