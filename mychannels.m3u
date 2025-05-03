@@ -210,36 +210,6 @@ https://tgn.bozztv.com/trn03/gin-saudisunnah/index.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 1 (720p)
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1 tvg-id="SSCActionWaleed.sa" tvg-logo="https://i.imgur.com/agc0IZF.png" group-title="Sports",SSC Action Waleed (1080p) [Not 24/7]
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Sports",SSC 3
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/280134?checkedby:iptvcat.com
-
-
-
-
-
-#EXTINF:-1 tvg-id="SSC1HD" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 1 HD
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
-
-#EXTINF:-1 tvg-id="SSC2HD" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 2 HD
-https://ssc-6-ak.akamaized.net/out/v1/efbe58d3435d4de1beb1d7e3b27d309f/index.m3u8
-
-#EXTINF:-1 tvg-id="SSC3HD" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 3 HD
-http://iptv.ipslow.com/tv31_www.elahmad.com_ssc_3/index.m3u8?token=fcc78993c540b17f402681987ae609c03d91f9c8-2ddbec0c99c9779c49a8b961581ef8df-1658993768-1658982968
-
-#EXTINF:-1 tvg-id="SSC4HD" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 4 HD
-http://iptv.ipslow.com/tv31_www.elahmad.com_ssc_4/index.m3u8?token=60de0ba0aa3529cd2bfc576a0345ddd278ece701-60d4947f3ccef8f34bb801eb1f9d9aab-1658993832-1658983032
-
-#EXTINF:-1 tvg-id="SSC5HD" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 5 HD
-http://iptv.ipslow.com/tv31_www.elahmad.com_ssc_5/index.m3u8?token=5cee1da6f7d660d6268ea58baee57f4c546641f1-24871bd1a76e5a9e527b983310cc6ab1-1658993869-1658983069
-
-#EXTINF:-1 tvg-id="SSC6HD" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 6 HD
-http://iptv.ipslow.com/tv31_www.elahmad.com_ssc_6/index.m3u8?token=5fab51fd4cd887dc8f2a36ef65a5d3960403dddc-e318a0c735f57c670d75891e52bf82c4-1658993969-1658983169
-
-#EXTINF:-1 tvg-id="SSC7HD" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 7 HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/b3ece6f93df54fa39d0065fee8e5d40d/index.m3u8
 
 
 
@@ -255,40 +225,12 @@ https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/i
 #EXTINF:-1 tvg-id="SSC3HD3" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 3 HD3
 https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
 
-#EXTINF:-1 tvg-id="SSC4HD4" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 4 HD4
-https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
-
-SSC 5
-https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
-
-SSC NEWS
-https://ssc-news-on-prem-ak.akamaized.net/out/v1/f2c4d3235fc24094a27c2d07ecb3069d/index.mpd
-
-#EXTINF:-1 tvg-id="SSCExtra1" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports EXTRA1
-https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
-
-#EXTINF:-1 tvg-id="SSCExtra2" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports EXTRA2
-https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e29c/index.mpd
-
-#EXTINF:-1 tvg-id="SSCExtra3" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports EXTRA3
-https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
 
 
 
 
-#EXTINF:-1 tvg-id="SSC11" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC11
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244000
-#EXTINF:-1 tvg-id="SSC22" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC22
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243999
-#EXTINF:-1,SSC_3
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243998
-#EXTINF:-1,SSC_4
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243997
-#EXTINF:-1,SSC_5
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243996
-#EXTINF:-1,SSC_6
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243995
-#EXTINF:-1 tvg-id="SSC77" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC77
-http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243994
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA En Espanol (720p)
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
+
 
 
