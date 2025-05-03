@@ -232,5 +232,7 @@ https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/i
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA En Espanol (720p)
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p)
+https://lnc-bein.tubi.video/playlist.m3u8
 
 
