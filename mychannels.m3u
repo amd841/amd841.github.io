@@ -216,15 +216,8 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 The links from elahmad changed
 http://www.elahmad.com/tv/ssc-sport-live.php
 
-#EXTINF:-1 tvg-id="SSC1HD2" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 1 HD2
-https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
-
-#EXTINF:-1 tvg-id="SSC2HD2" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 2 HD2
-https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
-
-#EXTINF:-1 tvg-id="SSC3HD3" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC Sports 3 HD3
-https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
-
+#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Sports",QazSport (480p) [Geo-blocked]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
 
 
