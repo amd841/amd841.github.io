@@ -228,3 +228,7 @@ https://edge.taghtia.com/sa/10.m3u8
 #EXTINF:-1 tvg-id="KSASports3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Sports",KSA Sports 3 (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/16.m3u8
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="الكوثر" tvg-logo="https://alarabclub.live/wp-content/uploads/2021/02/601fe196c1d11.jpg" group-title="عربية | Arabic ",الكوثر
+https://video.alkawthartv.ir/original/2025/04/28/638814453131139225video.mp4
