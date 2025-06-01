@@ -46,7 +46,7 @@ https://s1.ettehadlive.com/live/120/playlist.m3u8
 #EXTINF:-1 tvg-name="هدهد" tvg-id="HodHodArabicTV.ir" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد
 http://95.216.180.111:1935/live/17/index.m3u8
 
-#EXTINF:-1 tvg-name="شهاب" tvg-id="shehabtv" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",شهاب
+#EXTINF:-1 tvg-name="شهاب" tvg-id="shehabtv" tvg-logo="https://shehab.tv/wp-content/uploads/2021/08/logo-shahab-2.png" group-title="main",شهاب
 http://95.216.180.111:1935/live/67/index.m3u8
 
 
