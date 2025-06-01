@@ -165,9 +165,11 @@ http://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-name="هدهد" tvg-id="HodHodArabicTV.ir" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد
 https://5e74a9d684b2e.streamlock.net/hodhodTV/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="هدهدHD" tvg-id="HodHodArabicTV.irHD" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",HDهدهد
-http://yshoots.com:80/live/arab1oneb2811/7350885901/286734.ts
+#EXTINF:-1 tvg-name="هدهد2" tvg-id="HodHodArabicTV.irHD" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد2
+http://95.216.180.111:1935/live/17/index.m3u8
 
+#EXTINF:-1 tvg-name="شهاب" tvg-id="shehabtv" tvg-logo="https://shehab.tv/wp-content/uploads/2021/08/logo-shahab-2.png" group-title="main",شهاب
+http://95.216.180.111:1935/live/67/index.m3u8
 
 
 #EXTINF:-1 tvg-name="test" tvg-id="test12" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Test",Test youtube1
