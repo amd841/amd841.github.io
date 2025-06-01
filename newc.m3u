@@ -45,8 +45,6 @@ https://s1.ettehadlive.com/live/120/playlist.m3u8
 
 #EXTINF:-1 tvg-name="هدهد" tvg-id="HodHodArabicTV.ir" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد
 http://95.216.180.111:1935/live/17/index.m3u8
-#EXTINF:-1 tvg-name="هدهدHD" tvg-id="HodHodArabicTV.irHD" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",HDهدهد
-http://yshoots.com:80/live/arab1oneb2811/7350885901/286734.ts
 
 #EXTINF:-1 tvg-name="قناة العالم" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/قناة_العالم.png" tvg-id="alalam" group-title="news",قناة العالم
 http://channels.amd840.com/alalam/index.m3u8
