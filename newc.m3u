@@ -26,7 +26,7 @@ https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-name="قناة المرجعية" tvg-logo="https://i.imgur.com/LsYYkUI.png" tvg-id="MarjaeyatTVArabic" group-title="main",MarjaeyatTVArabic
 https://livear.marjaeyattv.com/mtv_ar/playlist03/index.m3u8
 #EXTINF:-1 tvg-name="قناة النعيم" tvg-id="Al-Naeem TV" tvg-logo="https://i.imgur.com/JyWjfIB.png" group-title="main",Al-Naeem TV (576p)
-https://nl2.livekadeh.com/hls2/alnaeem.m3u8
+http://95.216.180.111:1935/live/22/index.m3u8
 #EXTINF:-1 tvg-name="قناة العهد" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/bd/ACmnVC0y.jpg" tvg-id="alahd" group-title="main",قناة العهد
 http://95.216.180.111:1935/live/7/chunklist_w11557330.m3u8
 
