@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="الولاية" tvg-id="alwilayah" tvg-logo="https://alwilayah.tv/wp-content/uploads/2022/12/cropped-alwilayah-logo-1.png" group-title="main",الولاية
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-name="قناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTV" group-title="main",قناة المعارف
-https://ir14.livekadeh.com/hls2/almaaref.m3u8
+https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة الكوثر" tvg-logo="https://amd840.github.io/khawther.png" tvg-id="alkawther" group-title="main",قناة الكوثر
 http://95.216.180.111:1935/live/118/index.m3u8
 #EXTINF:-1 tvg-name="قناة كربلاء" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-id="karbala" group-title="main",قناة كربلاء
