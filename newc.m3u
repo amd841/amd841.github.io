@@ -94,7 +94,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/H
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 
-#EXTINF:-1 tvg-name="ifilm" tvg-logo="https://i.imgur.com/k5WdrWx.png" tvg-id="iFilmArabic2" group-title="general",iFilmArabic
+#EXTINF:-1 tvg-name="ifilm" tvg-logo="https://i.imgur.com/k5WdrWx.png" tvg-id="iFilmArabic2" group-title="general",iFilm
 https://ncdn.telewebion.com/ifilmar/live/playlist.m3u8
 
 
