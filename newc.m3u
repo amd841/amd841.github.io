@@ -43,7 +43,7 @@ http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
 https://s1.ettehadlive.com/live/120/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="هدهد" tvg-id="HodHodArabicTV.ir" tvg-logo="https://app.hodhodarabic.com/assets/logo.svg" group-title="main",هدهد
+#EXTINF:-1 tvg-name="هدهد" tvg-id="HodHodArabicTV.ir" tvg-logo="https://cdn-project-feed.kinemasters.com/user_projects/28195200/66bb0fc0b3e4c0cc9f338677/2kax4N16BblMUzcsFWyYONqAirm_comp.jpeg" group-title="main",هدهد
 http://95.216.180.111:1935/live/17/index.m3u8
 
 #EXTINF:-1 tvg-name="شهاب" tvg-id="shehabtv" tvg-logo="https://shehab.tv/wp-content/uploads/2021/08/logo-shahab-2.png" group-title="main",شهاب
