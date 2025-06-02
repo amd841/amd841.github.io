@@ -89,7 +89,7 @@ https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 
 #EXTINF:-1 tvg-name="NationalGeographicAbuDhabi1" tvg-logo="https://i.imgur.com/fNA00VF.png" tvg-id="NationalGeographicAbuDhabi1" group-title="general",NationalGeographicAbuDhabi1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="general",Al Jazeera Documentary (270p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="general",Al Jazeera Documentary (270p)
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 
