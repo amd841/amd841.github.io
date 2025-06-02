@@ -68,9 +68,9 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-name="AlEkhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya" group-title="news",AlEkhbariya
 http://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
-#EXTINF:-1 tvg-name="AlArabyTV" tvg-logo="https://cdn6.aptoide.com/imgs/6/8/9/689b42251d7db68dbc77bc6aa1febdeb_icon.png" tvg-id="AlArabyTV" group-title="news",AlArabyTV
+#EXTINF:-1 tvg-name="العربي" tvg-logo="https://cdn6.aptoide.com/imgs/6/8/9/689b42251d7db68dbc77bc6aa1febdeb_icon.png" tvg-id="AlArabyTV" group-title="news",العربي
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
-#EXTINF:-1 tvg-name="AlArabyTV2" tvg-logo="https://i.imgur.com/Gp5mNea.png" tvg-id="AlArabyTV2" group-title="news",AlArabyTV2
+#EXTINF:-1 tvg-name="العربي٢" tvg-logo="https://i.imgur.com/Gp5mNea.png" tvg-id="AlArabyTV2" group-title="news",العربي٢
 http://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:-1 tvg-name="RTArabic" tvg-id="RTArabic.ru" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="news",RT Arabic (1080p)
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
@@ -85,7 +85,7 @@ http://95.216.180.111:1935/live/14/index.m3u8
 #EXTINF:-1 tvg-name="قناة المسيرة مباشر" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" tvg-id="almasirah mubashir" group-title="news",قناة المسيرة مباشر 
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/MubasherLive/Mubasher_AR/chunks.m3u8
 
-#EXTINF:-1 tvg-name="IqraaArabic" tvg-logo="https://i.imgur.com/HPVsIa4.png" tvg-id="IqraaArabic" group-title="general",IqraaArabic
+#EXTINF:-1 tvg-name="اقرا" tvg-logo="https://i.imgur.com/HPVsIa4.png" tvg-id="IqraaArabic" group-title="general",اقرا
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 
 #EXTINF:-1 tvg-name="NationalGeographicAbuDhabi1" tvg-logo="https://i.imgur.com/fNA00VF.png" tvg-id="NationalGeographicAbuDhabi1" group-title="general",NationalGeographicAbuDhabi1
