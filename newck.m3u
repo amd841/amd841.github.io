@@ -52,7 +52,7 @@ http://95.216.180.111:1935/live/67/index.m3u8
 
 
 #EXTINF:-1 tvg-name="قناة العالم" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/قناة_العالم.png" tvg-id="alalam" group-title="news",قناة العالم
-http://channels.amd840.com/alalam/index.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-name="قناة الجزيرة" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera" group-title="news",قناة الجزيرة
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-name="قناة المنار" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-id="AlManar" group-title="main",قناة المنار
