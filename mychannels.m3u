@@ -6,7 +6,7 @@ https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3
 
 
 #EXTINF:-1 tvg-name="قناة الكوثر" tvg-logo="https://amd840.github.io/khawther.png" tvg-id="alkawther" group-title="main",قناة الكوثر
-http://95.216.180.111:1935/live/118/index.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8
 #EXTINF:-1 tvg-name="HDقناة الكوثر" tvg-logo="https://amd840.github.io/khawther.png" tvg-id="alkawther3" group-title="main",قناة الكوثرHD
 http://20.84.80.199/alkawthar.m3u8
 #EXTINF:-1 tvg-name="قناة كربلاء" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-id="karbala" group-title="main",قناة كربلاء
