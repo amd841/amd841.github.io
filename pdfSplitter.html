@@ -371,10 +371,10 @@
             
             <div class="action-buttons" id="actionButtons">
                 <button class="action-btn" onclick="generatePDF()" id="generateBtn">
-                    📄 Generate PDF
+                    📄 Generate Separate PDFs
                 </button>
-                <button class="action-btn" onclick="downloadZip()" id="downloadZipBtn">
-                    📦 Download as ZIP
+                <button class="action-btn" onclick="generateSinglePDF()" id="generateSingleBtn">
+                    📄 Generate Single PDF
                 </button>
             </div>
             
@@ -617,12 +617,91 @@
         }
         
         async function generatePDF() {
+            if (selectedRanges.length === 0) {
+                alert('Please select page ranges first');
+                return;
+            }
+            
+            showProgress('Generating separate PDF files...');
+            
+            try {
+                const { jsPDF } = window.jspdf;
+                let totalProgress = 0;
+                const totalRanges = selectedRanges.length;
+                
+                for (let rangeIndex = 0; rangeIndex < selectedRanges.length; rangeIndex++) {
+                    const range = selectedRanges[rangeIndex];
+                    const pdf = new jsPDF();
+                    let isFirstPageInPDF = true;
+                    
+                    showProgress(`Processing range ${rangeIndex + 1}/${totalRanges}: Pages ${range.from}-${range.to}`);
+                    
+                    for (let pageNum = range.from; pageNum <= range.to; pageNum++) {
+                        const page = await pdfDoc.getPage(pageNum);
+                        const viewport = page.getViewport({ scale: 2 });
+                        
+                        const canvas = document.createElement('canvas');
+                        const ctx = canvas.getContext('2d');
+                        canvas.width = viewport.width;
+                        canvas.height = viewport.height;
+                        
+                        await page.render({
+                            canvasContext: ctx,
+                            viewport: viewport
+                        }).promise;
+                        
+                        const imgData = canvas.toDataURL('image/jpeg', 0.95);
+                        
+                        if (!isFirstPageInPDF) {
+                            pdf.addPage();
+                        }
+                        
+                        // Calculate dimensions to fit page
+                        const pdfWidth = pdf.internal.pageSize.getWidth();
+                        const pdfHeight = pdf.internal.pageSize.getHeight();
+                        const ratio = Math.min(pdfWidth / viewport.width, pdfHeight / viewport.height);
+                        
+                        const width = viewport.width * ratio;
+                        const height = viewport.height * ratio;
+                        const x = (pdfWidth - width) / 2;
+                        const y = (pdfHeight - height) / 2;
+                        
+                        pdf.addImage(imgData, 'JPEG', x, y, width, height);
+                        isFirstPageInPDF = false;
+                    }
+                    
+                    // Generate filename based on range
+                    const filename = range.from === range.to 
+                        ? `page_${range.from}.pdf`
+                        : `pages_${range.from}-${range.to}.pdf`;
+                    
+                    // Download this range's PDF
+                    pdf.save(filename);
+                    
+                    // Update progress
+                    totalProgress = ((rangeIndex + 1) / totalRanges) * 100;
+                    updateProgress(totalProgress);
+                    
+                    // Small delay to allow download to process
+                    await new Promise(resolve => setTimeout(resolve, 500));
+                }
+                
+                showProgress(`✅ Generated ${totalRanges} PDF files successfully!`);
+                setTimeout(hideProgress, 2000);
+                
+            } catch (error) {
+                showProgress('Error generating PDFs: ' + error.message);
+                console.error('Error:', error);
+            }
+        }
+        
+        async function generateSinglePDF() {
             if (selectedPages.size === 0) {
                 alert('Please select pages first');
                 return;
             }
             
-            showProgress('Generating PDF...');
+            showProgress('Generating single PDF...');
             
             try {
                 const { jsPDF } = window.jspdf;
@@ -669,7 +748,7 @@
                 }
                 
                 // Download the PDF
-                pdf.save('extracted_pages.pdf');
+                pdf.save('all_selected_pages.pdf');
                 hideProgress();
                 
             } catch (error) {
@@ -679,7 +758,7 @@
         }
         
         async function downloadZip() {
-            alert('ZIP download feature requires a more complex implementation. For now, use the PDF generator or individual page downloads.');
+            alert('ZIP download feature requires a more complex implementation. For now, use the PDF generators.');
         }
         
         function showProgress(message) {
