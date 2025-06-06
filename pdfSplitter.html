@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Page Splitter</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #ff6b6b 0%, #4ecdc4 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 25px 70px rgba(0,0,0,0.15);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #e74c3c 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .main-content {
+            padding: 40px;
+        }
+        
+        .upload-section {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border: 3px dashed #e74c3c;
+            border-radius: 15px;
+            padding: 40px;
+            text-align: center;
+            margin-bottom: 30px;
+            transition: all 0.3s ease;
+        }
+        
+        .upload-section:hover {
+            border-color: #c0392b;
+            transform: translateY(-2px);
+        }
+        
+        .upload-section.dragover {
+            border-color: #27ae60;
+            background: linear-gradient(135deg, #d5f4e6 0%, #a8e6cf 100%);
+        }
+        
+        .upload-icon {
+            font-size: 4em;
+            color: #e74c3c;
+            margin-bottom: 20px;
+        }
+        
+        .file-input {
+            display: none;
+        }
+        
+        .upload-btn {
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-size: 1.1em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin: 10px;
+        }
+        
+        .upload-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 30px rgba(231, 76, 60, 0.3);
+        }
+        
+        .pdf-info {
+            display: none;
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .pdf-info h3 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        .range-controls {
+            display: none;
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+            border: 1px solid #ecf0f1;
+        }
+        
+        .range-section {
+            margin-bottom: 25px;
+        }
+        
+        .range-section h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+        
+        .range-input-group {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+        }
+        
+        .range-input {
+            padding: 12px 15px;
+            border: 2px solid #bdc3c7;
+            border-radius: 8px;
+            font-size: 1em;
+            transition: border-color 0.3s ease;
+            width: 100px;
+        }
+        
+        .range-input:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+        
+        .range-label {
+            font-weight: 500;
+            color: #34495e;
+        }
+        
+        .add-range-btn {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-left: 10px;
+        }
+        
+        .add-range-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(52, 152, 219, 0.3);
+        }
+        
+        .range-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        
+        .range-tag {
+            background: linear-gradient(135deg, #4ecdc4, #44a08d);
+            color: white;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .remove-range {
+            background: rgba(255,255,255,0.3);
+            border: none;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            cursor: pointer;
+            color: white;
+            font-size: 12px;
+        }
+        
+        .preview-section {
+            display: none;
+            margin-top: 20px;
+        }
+        
+        .preview-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .preview-page {
+            text-align: center;
+            padding: 10px;
+            border: 2px solid #ecf0f1;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+        
+        .preview-page:hover {
+            border-color: #3498db;
+            transform: translateY(-2px);
+        }
+        
+        .preview-page.selected {
+            border-color: #27ae60;
+            background: #d5f4e6;
+        }
+        
+        .preview-canvas {
+            max-width: 100%;
+            border-radius: 4px;
+            margin-bottom: 8px;
+        }
+        
+        .action-buttons {
+            display: none;
+            text-align: center;
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        
+        .action-btn {
+            background: linear-gradient(135deg, #27ae60, #2ecc71);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-size: 1.1em;
+            cursor: pointer;
+            margin: 10px;
+            transition: all 0.3s ease;
+        }
+        
+        .action-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 30px rgba(39, 174, 96, 0.3);
+        }
+        
+        .action-btn:disabled {
+            background: #bdc3c7;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+        
+        .progress-section {
+            display: none;
+            margin: 20px 0;
+            text-align: center;
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 20px;
+            background: #ecf0f1;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #3498db, #2ecc71);
+            border-radius: 10px;
+            transition: width 0.3s ease;
+            width: 0%;
+        }
+        
+        @media (max-width: 768px) {
+            .range-input-group {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .range-input {
+                width: 100%;
+            }
+            
+            .preview-grid {
+                grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            }
+            
+            .main-content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>✂️ PDF Page Splitter</h1>
+            <p>Extract specific page ranges from your PDF documents with precision</p>
+        </div>
+        
+        <div class="main-content">
+            <div class="upload-section" id="uploadSection">
+                <div class="upload-icon">📄</div>
+                <h3>Upload Your PDF File</h3>
+                <p>Drag and drop your PDF here, or click to browse</p>
+                <input type="file" id="fileInput" class="file-input" accept=".pdf">
+                <button class="upload-btn" onclick="document.getElementById('fileInput').click()">
+                    Choose PDF File
+                </button>
+            </div>
+            
+            <div class="pdf-info" id="pdfInfo">
+                <h3>📋 PDF Information</h3>
+                <p id="pdfDetails">Loading...</p>
+            </div>
+            
+            <div class="range-controls" id="rangeControls">
+                <div class="range-section">
+                    <h3>🎯 Select Page Ranges</h3>
+                    <div class="range-input-group">
+                        <span class="range-label">From page:</span>
+                        <input type="number" id="fromPage" class="range-input" min="1" placeholder="1">
+                        <span class="range-label">To page:</span>
+                        <input type="number" id="toPage" class="range-input" min="1" placeholder="10">
+                        <button class="add-range-btn" onclick="addRange()">+ Add Range</button>
+                    </div>
+                    <div class="range-list" id="rangeList"></div>
+                </div>
+                
+                <div class="range-section">
+                    <h3>⚡ Quick Options</h3>
+                    <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+                        <button class="add-range-btn" onclick="addQuickRange('first10')">First 10 Pages</button>
+                        <button class="add-range-btn" onclick="addQuickRange('last10')">Last 10 Pages</button>
+                        <button class="add-range-btn" onclick="addQuickRange('odd')">Odd Pages</button>
+                        <button class="add-range-btn" onclick="addQuickRange('even')">Even Pages</button>
+                        <button class="add-range-btn" onclick="clearRanges()">Clear All</button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="preview-section" id="previewSection">
+                <h3>🔍 Selected Pages Preview</h3>
+                <div class="preview-grid" id="previewGrid"></div>
+            </div>
+            
+            <div class="action-buttons" id="actionButtons">
+                <button class="action-btn" onclick="generatePDF()" id="generateBtn">
+                    📄 Generate PDF
+                </button>
+                <button class="action-btn" onclick="downloadZip()" id="downloadZipBtn">
+                    📦 Download as ZIP
+                </button>
+            </div>
+            
+            <div class="progress-section" id="progressSection">
+                <div id="progressText">Processing...</div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let pdfDoc = null;
+        let selectedRanges = [];
+        let selectedPages = new Set();
+        let pageCanvases = {};
+        
+        // Initialize PDF.js
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+        
+        // File input and drag/drop handlers
+        document.getElementById('fileInput').addEventListener('change', handleFileSelect);
+        const uploadSection = document.getElementById('uploadSection');
+        
+        uploadSection.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadSection.classList.add('dragover');
+        });
+        
+        uploadSection.addEventListener('dragleave', (e) => {
+            e.preventDefault();
+            uploadSection.classList.remove('dragover');
+        });
+        
+        uploadSection.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadSection.classList.remove('dragover');
+            const files = e.dataTransfer.files;
+            if (files.length > 0 && files[0].type === 'application/pdf') {
+                processFile(files[0]);
+            }
+        });
+        
+        function handleFileSelect(e) {
+            const file = e.target.files[0];
+            if (file && file.type === 'application/pdf') {
+                processFile(file);
+            }
+        }
+        
+        async function processFile(file) {
+            showProgress('Loading PDF...');
+            
+            try {
+                const arrayBuffer = await file.arrayBuffer();
+                pdfDoc = await pdfjsLib.getDocument(arrayBuffer).promise;
+                
+                // Show PDF info
+                document.getElementById('pdfInfo').style.display = 'block';
+                document.getElementById('pdfDetails').textContent = 
+                    `📄 Total Pages: ${pdfDoc.numPages} | 📁 File Size: ${(file.size / 1024 / 1024).toFixed(2)} MB`;
+                
+                // Setup range controls
+                document.getElementById('rangeControls').style.display = 'block';
+                document.getElementById('fromPage').max = pdfDoc.numPages;
+                document.getElementById('toPage').max = pdfDoc.numPages;
+                
+                hideProgress();
+                
+            } catch (error) {
+                showProgress('Error loading PDF: ' + error.message);
+                console.error('Error:', error);
+            }
+        }
+        
+        function addRange() {
+            const fromPage = parseInt(document.getElementById('fromPage').value);
+            const toPage = parseInt(document.getElementById('toPage').value);
+            
+            if (!fromPage || !toPage) {
+                alert('Please enter valid page numbers');
+                return;
+            }
+            
+            if (fromPage > toPage) {
+                alert('From page must be less than or equal to To page');
+                return;
+            }
+            
+            if (fromPage < 1 || toPage > pdfDoc.numPages) {
+                alert(`Page numbers must be between 1 and ${pdfDoc.numPages}`);
+                return;
+            }
+            
+            const rangeId = `${fromPage}-${toPage}`;
+            if (selectedRanges.find(r => r.id === rangeId)) {
+                alert('This range is already selected');
+                return;
+            }
+            
+            selectedRanges.push({ id: rangeId, from: fromPage, to: toPage });
+            updateSelectedPages();
+            renderRangeList();
+            renderPreview();
+            
+            // Clear inputs
+            document.getElementById('fromPage').value = '';
+            document.getElementById('toPage').value = '';
+        }
+        
+        function addQuickRange(type) {
+            if (!pdfDoc) return;
+            
+            const totalPages = pdfDoc.numPages;
+            let ranges = [];
+            
+            switch(type) {
+                case 'first10':
+                    ranges.push({ from: 1, to: Math.min(10, totalPages) });
+                    break;
+                case 'last10':
+                    ranges.push({ from: Math.max(1, totalPages - 9), to: totalPages });
+                    break;
+                case 'odd':
+                    for (let i = 1; i <= totalPages; i += 2) {
+                        ranges.push({ from: i, to: i });
+                    }
+                    break;
+                case 'even':
+                    for (let i = 2; i <= totalPages; i += 2) {
+                        ranges.push({ from: i, to: i });
+                    }
+                    break;
+            }
+            
+            ranges.forEach(range => {
+                const rangeId = `${range.from}-${range.to}`;
+                if (!selectedRanges.find(r => r.id === rangeId)) {
+                    selectedRanges.push({ id: rangeId, from: range.from, to: range.to });
+                }
+            });
+            
+            updateSelectedPages();
+            renderRangeList();
+            renderPreview();
+        }
+        
+        function removeRange(rangeId) {
+            selectedRanges = selectedRanges.filter(r => r.id !== rangeId);
+            updateSelectedPages();
+            renderRangeList();
+            renderPreview();
+        }
+        
+        function clearRanges() {
+            selectedRanges = [];
+            selectedPages.clear();
+            renderRangeList();
+            renderPreview();
+        }
+        
+        function updateSelectedPages() {
+            selectedPages.clear();
+            selectedRanges.forEach(range => {
+                for (let i = range.from; i <= range.to; i++) {
+                    selectedPages.add(i);
+                }
+            });
+        }
+        
+        function renderRangeList() {
+            const rangeList = document.getElementById('rangeList');
+            rangeList.innerHTML = '';
+            
+            selectedRanges.forEach(range => {
+                const tag = document.createElement('div');
+                tag.className = 'range-tag';
+                tag.innerHTML = `
+                    Pages ${range.from}-${range.to}
+                    <button class="remove-range" onclick="removeRange('${range.id}')">×</button>
+                `;
+                rangeList.appendChild(tag);
+            });
+        }
+        
+        async function renderPreview() {
+            const previewGrid = document.getElementById('previewGrid');
+            const previewSection = document.getElementById('previewSection');
+            const actionButtons = document.getElementById('actionButtons');
+            
+            if (selectedPages.size === 0) {
+                previewSection.style.display = 'none';
+                actionButtons.style.display = 'none';
+                return;
+            }
+            
+            previewSection.style.display = 'block';
+            actionButtons.style.display = 'block';
+            previewGrid.innerHTML = '';
+            
+            const sortedPages = Array.from(selectedPages).sort((a, b) => a - b);
+            
+            for (const pageNum of sortedPages) {
+                const pageDiv = document.createElement('div');
+                pageDiv.className = 'preview-page selected';
+                
+                const canvas = document.createElement('canvas');
+                canvas.className = 'preview-canvas';
+                canvas.width = 120;
+                canvas.height = 160;
+                
+                const pageLabel = document.createElement('div');
+                pageLabel.textContent = `Page ${pageNum}`;
+                pageLabel.style.fontSize = '12px';
+                pageLabel.style.fontWeight = 'bold';
+                
+                pageDiv.appendChild(canvas);
+                pageDiv.appendChild(pageLabel);
+                previewGrid.appendChild(pageDiv);
+                
+                // Render page thumbnail
+                try {
+                    const page = await pdfDoc.getPage(pageNum);
+                    const viewport = page.getViewport({ scale: 0.3 });
+                    const ctx = canvas.getContext('2d');
+                    
+                    await page.render({
+                        canvasContext: ctx,
+                        viewport: viewport
+                    }).promise;
+                    
+                    // Store for later use
+                    pageCanvases[pageNum] = canvas;
+                    
+                } catch (error) {
+                    console.error(`Error rendering page ${pageNum}:`, error);
+                }
+            }
+        }
+        
+        async function generatePDF() {
+            if (selectedPages.size === 0) {
+                alert('Please select pages first');
+                return;
+            }
+            
+            showProgress('Generating PDF...');
+            
+            try {
+                const { jsPDF } = window.jspdf;
+                const pdf = new jsPDF();
+                
+                const sortedPages = Array.from(selectedPages).sort((a, b) => a - b);
+                let isFirstPage = true;
+                
+                for (let i = 0; i < sortedPages.length; i++) {
+                    const pageNum = sortedPages[i];
+                    updateProgress((i / sortedPages.length) * 100);
+                    
+                    const page = await pdfDoc.getPage(pageNum);
+                    const viewport = page.getViewport({ scale: 2 });
+                    
+                    const canvas = document.createElement('canvas');
+                    const ctx = canvas.getContext('2d');
+                    canvas.width = viewport.width;
+                    canvas.height = viewport.height;
+                    
+                    await page.render({
+                        canvasContext: ctx,
+                        viewport: viewport
+                    }).promise;
+                    
+                    const imgData = canvas.toDataURL('image/jpeg', 0.95);
+                    
+                    if (!isFirstPage) {
+                        pdf.addPage();
+                    }
+                    
+                    // Calculate dimensions to fit page
+                    const pdfWidth = pdf.internal.pageSize.getWidth();
+                    const pdfHeight = pdf.internal.pageSize.getHeight();
+                    const ratio = Math.min(pdfWidth / viewport.width, pdfHeight / viewport.height);
+                    
+                    const width = viewport.width * ratio;
+                    const height = viewport.height * ratio;
+                    const x = (pdfWidth - width) / 2;
+                    const y = (pdfHeight - height) / 2;
+                    
+                    pdf.addImage(imgData, 'JPEG', x, y, width, height);
+                    isFirstPage = false;
+                }
+                
+                // Download the PDF
+                pdf.save('extracted_pages.pdf');
+                hideProgress();
+                
+            } catch (error) {
+                showProgress('Error generating PDF: ' + error.message);
+                console.error('Error:', error);
+            }
+        }
+        
+        async function downloadZip() {
+            alert('ZIP download feature requires a more complex implementation. For now, use the PDF generator or individual page downloads.');
+        }
+        
+        function showProgress(message) {
+            document.getElementById('progressSection').style.display = 'block';
+            document.getElementById('progressText').textContent = message;
+        }
+        
+        function hideProgress() {
+            document.getElementById('progressSection').style.display = 'none';
+        }
+        
+        function updateProgress(percentage) {
+            document.getElementById('progressFill').style.width = percentage + '%';
+        }
+    </script>
+</body>
+</html>
