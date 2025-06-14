@@ -94,7 +94,7 @@ https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="قناة المنار" tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",قناة المنار
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-name="sdقناة المنار" tvg-id="AlManar.lbsd" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="news",360px المنار
-http://95.216.180.111:1935/live/43/chunklist.m3u8
+https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="قناة الميادين" tvg-id="mdn" tvg-logo="https://almasalah.com/wp-content/uploads/2024/10/Screenshot-2024-10-23-225453.jpg" group-title="news",قناة الميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
