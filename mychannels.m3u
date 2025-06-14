@@ -110,7 +110,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Al Hadath2" tvg-id="AlHadath2" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="news",الحدث٢
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Asharq" tvg-id="Asharq" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="news",الشرق
+#EXTINF:-1 tvg-name="Asharq" tvg-id="Asharq" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="news",الشرق
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
 
