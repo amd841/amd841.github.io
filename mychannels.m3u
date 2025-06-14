@@ -106,8 +106,15 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRTArabic" tvg-id="TRTArabic.ru" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="news",TRT Arabic (1080p)
 http://185.234.111.229:8000/play/a002
-#EXTINF:-1 tvg-name="TRTArabicSD" tvg-id="TRTArabic.rusd" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="news",TRT Arabic (SD)
+#EXTINF:-1 tvg-name="TRTArabic2" tvg-id="TRTArabic.rusd" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="news",TRT Arabic (2)
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Al Hadath" tvg-id="AlHadath" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="news",الحدث
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Hadath2" tvg-id="AlHadath2" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="news",الحدث٢
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (720p)
