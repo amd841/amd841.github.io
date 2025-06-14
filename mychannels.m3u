@@ -121,10 +121,6 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk360" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (360p)
 http://95.216.180.111:1935/live/106/index.m3u8
-#EXTINF:-1 tvg-id="BBC ARABIC" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Arabic (HD)
-http://yshoots.com:80/live/arab1oneb2811/7350885901/102173.ts
-#EXTINF:-1 tvg-id="BBC WORLD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="news",BBC Earth
-http://camry.live:80/arab1one.com1aa2811/233455316349/257576
 
 #EXTINF:-1 tvg-name="قناة افاق" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/قناة_أفاق.png" tvg-id="afaq" group-title="news",قناة افاق
 http://95.216.180.111:1935/live/1/chunklist_w1238894840.m3u8
