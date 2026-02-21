@@ -7,10 +7,7 @@ https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3
 https://iptv.almahditv.com/almahditv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlahadTV.iq" tvg-logo="https://i.imgur.com/uWibV0i.png" group-title="main",Al Ahad TV
 http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/germany/new/BEIN_SPORTS_1_HD.png" group-title="DE | MIX SPORT",DE: BEIN SPORTS 1
-http://31.43.191.125:8080/NNymWMJPsFJB/G9LR9439skvs/135467
-#EXTINF:-1 tvg-id="" tvg-name="DE: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/germany/new/BEIN_SPORTS_2.png" group-title="DE | MIX SPORT",DE: BEIN SPORTS 2
-http://31.43.191.125:8080/NNymWMJPsFJB/G9LR9439skvs/135468
+
 
 
 #EXTINF:-1 tvg-name="قناة الكوثر" tvg-logo="https://amd840.github.io/khawther.png" tvg-id="alkawther" group-title="main",قناة الكوثر
@@ -182,6 +179,8 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 https://5e74a9d684b2e.streamlock.net/hodhodTV/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="هدهد2" tvg-id="HodHodArabicTV.irHD" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد2
 http://95.216.180.111:1935/live/17/index.m3u8
+#EXTINF:-1 tvg-name="هدهد3" tvg-id="HodHodArabicTV.ir3" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد3
+http://server22.top/live/7469819111/3030347998/781929.ts
 
 #EXTINF:-1 tvg-name="شهاب" tvg-id="shehabtv" tvg-logo="https://shehab.tv/wp-content/uploads/2021/08/logo-shahab-2.png" group-title="main",شهاب
 http://95.216.180.111:1935/live/67/index.m3u8
