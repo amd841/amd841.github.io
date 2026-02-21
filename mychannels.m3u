@@ -181,6 +181,9 @@ https://5e74a9d684b2e.streamlock.net/hodhodTV/ngrp:livestream_all/playlist.m3u8
 http://95.216.180.111:1935/live/17/index.m3u8
 #EXTINF:-1 tvg-name="هدهد3" tvg-id="HodHodArabicTV.ir3" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد3
 http://server22.top/live/7469819111/3030347998/781929.ts
+#EXTINF:-1 tvg-name="هدهد34" tvg-id="HodHodArabicTV.ir4" tvg-logo="https://yt3.googleusercontent.com/mu1TGaquVfqk478y1aSJAbo3DpNlUPBkib3pdlc_OW-fJbklNJPkWE9JZ_07n_5Gq_nWQu6MzQ=s900-c-k-c0x00ffffff-no-rj" group-title="main",هدهد4
+http://server22.top/live/7469819111/3030347998/782155.ts
+
 
 #EXTINF:-1 tvg-name="شهاب" tvg-id="shehabtv" tvg-logo="https://shehab.tv/wp-content/uploads/2021/08/logo-shahab-2.png" group-title="main",شهاب
 http://95.216.180.111:1935/live/67/index.m3u8
