@@ -18,6 +18,9 @@ http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
 
 #EXTINF:-1 tvg-name="قناة كربلاء" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-id="karbala" group-title="main",قناة كربلاء
 http://95.216.180.111:1935/live/45/chunklist_w2063903148.m3u8
+
+#EXTINF:-1 tvg-name="قناة كربلاء قران" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/800px-Karbala_tv.jpg" tvg-id="karbala quran" group-title="main",قناة كربلاء قران
+https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-name="قناة الثقلين" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSmasiHJMNPLOQMMdUuh-jotsBg80yVn3Qfys5HUg=s900-c-k-c0x00ffffff-no-rj" tvg-id="Thaqalayn" group-title="main",قناة الثقلين
 http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة الايمان" tvg-logo="https://i.imgur.com/4WKQppG.png" tvg-id="AlImanTV" group-title="main",قناة الايمان
