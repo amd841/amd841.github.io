@@ -31,7 +31,7 @@ http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة الايمان" tvg-logo="https://i.imgur.com/4WKQppG.png" tvg-id="AlImanTV" group-title="main",قناة الايمان
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/playlist.m3u8
 #EXTINF:-1 tvg-name="قناة الدعاء" tvg-logo="https://i.imgur.com/Tb1OJQa.png" tvg-id="DuaChannel" group-title="main",قناة الدعاء
-https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+https://amsterdam.zeuscdn724.com/H9/index.m3u8
 #EXTINF:-1 tvg-name="قناة الفرات" tvg-logo="https://i.imgur.com/f6PQzKd.png" tvg-id="AlForatTV" group-title="main",قناة الفرات
 http://95.216.180.111:1935/live/10/index.m3u8
 #EXTINF:-1 tvg-name="الفرات" tvg-id="AlForatTV.iq" tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="news",قناة الفرات
