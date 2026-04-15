@@ -3,6 +3,8 @@
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-name="قناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTV" group-title="main",قناة المعارف
 https://bucharest.zeuscdn724.com/CH-AL-MA/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="قناة المعارف" tvg-logo="https://i.imgur.com/QFnztgo.png" tvg-id="AlMaarefTV2" group-title="main",قناة المعارف
+https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 
 #EXTINF:-1 tvg-name="قناة فورتين" tvg-logo="https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86" tvg-id="ch14" group-title="main",قناة فورتين
 https://1a-1791.com/live/v0xi25uh/slot-157/6s6y-csu9/chunklist_DVR.m3u8
