@@ -8,6 +8,9 @@ https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 
 #EXTINF:-1 tvg-name="قناة فورتين" tvg-logo="https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86" tvg-id="ch14" group-title="main",قناة فورتين
 https://1a-1791.com/live/v0xi25uh/slot-157/6s6y-csu9/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-name="قناة فورتين" tvg-logo="https://ar.wikipedia.org/wiki/%D9%82%D9%86%D8%A7%D8%A9_%D9%81%D9%88%D8%B1%D8%AA%D9%8A%D9%86" tvg-id="ch142" group-title="main",قناة فورتين
+
+https://ch14.tv/live/ch4teenclip/playlist.m3u8
 
 #EXTINF:-1 tvg-name="قناة الكوثر" tvg-logo="https://i.imgur.com/x4zUmY1.png" tvg-id="alkawther" group-title="main",قناة الكوثر
 https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8
