@@ -66,6 +66,8 @@ http://doom2-iptv.net:8080/arab1one1aa2811/22572259028164/638281
 
 #EXTINF:-1 tvg-name="الكفيل" tvg-id="alkafeel" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",الكفيل
 https://www.youtube.com/@alkafeeltv/live
+#EXTINF:-1 tvg-name="الكفي2ل" tvg-id="alkafeel2" tvg-logo="https://alkafeel.tv/logo.ico" group-title="main",2الكفيل
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1776288341/ei/9a3faefEOpv7xN8Psuvq2Ac/ip/2001%3A16a4%3A7%3A61d9%3Ad0f7%3Aaf22%3A7b66%3Aa872/id/KCa7EmZQ-50.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828961/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGLoO_6zr_2d4GUe1uI-112oBJzEVVhkNcdqAAzxbNLkBXGnfBwMXpwXrQvQ_jAxI_CyW1R9ic02/spc/jlWavedCDwBL8eBf4FITkQiZtkyCfe0RZJ2Zu7DJQDOpR_s5KupNTznsLrjxwq-yz0u_OA/vprv/1/go/1/ns/t-V3VtXXPF7_q4J8kicRtJMU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51869322/dover/11/n/8G_ipi1QQ5c26He2b/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhALZQuk_LTDBj-hpckHQDAcATjfXSlpmoOjnKaRw0l4Y5AiBuhHaoJm9vVlSYkXOcbtK716Kle1XHwz1TyOxSXGiguw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="العتبة العلوية" tvg-id="alawiya" tvg-logo="https://yt3.googleusercontent.com/yxx-DJEIHbLN17G4Cn_C5zEaeqXES8b6lqZ_-AqAY75MrpEbooaL2QAG7IoISXelWdRpc3lQcA=s900-c-k-c0x00ffffff-no-rj" group-title="main",العتبة العلوية
 https://s1.ettehadlive.com/live/120/playlist.m3u8
